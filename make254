@@ -1,0 +1,4 @@
+# If Project_name does'nt exist, well just grab the first header and go from there.
+Project_name: My awsome example project
+# We don't require a license, we'll have a default one
+License: GPL3
